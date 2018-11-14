@@ -1,11 +1,11 @@
-public class Menu
+public class FoodMenu
 {
   protected String foodName;
   protected double price;
   protected String foodDescription;
   protected int serving;
 
-  public Menu(String kfoodName, double kprice, String kfoodDescription, int kserving)
+  public FoodMenu(String kfoodName, double kprice, String kfoodDescription, int kserving)
     {
       this.foodName = kfoodName;
       this.price = kprice;

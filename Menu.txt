@@ -1,0 +1,19 @@
+Shrimp Fries
+4.99
+fried shrimp
+1
+
+Vegetable Congee
+4.99
+congee with vegetables mixed
+1
+
+Rolled Omelet
+5.99
+Korean-style rolled omelets
+2
+
+Dumplings 
+3.99
+3 dumplings(beef/potato/shrimp/veggies)
+1
