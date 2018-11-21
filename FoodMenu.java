@@ -13,7 +13,7 @@ public class FoodMenu
       this.serving = kserving;
     }
 
-    public String getFoodNme()
+    public String getFoodName()
     {
       return foodName;
     }
